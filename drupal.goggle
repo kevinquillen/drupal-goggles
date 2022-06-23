@@ -5,6 +5,9 @@
 ! avatar: #53B0EB
 ! issues: https://github.com/kevinquillen/drupal-goggles/issues
 
+! Discard results for re-ranking below
+$discard
+
 ! Boost well-known sites
 $boost=4,site=drupal.org
 $boost=4,site=api.drupal.org
