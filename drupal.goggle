@@ -1,0 +1,11 @@
+! name: Drupal
+! description: 
+! author: Kevin Quillen
+! public: true
+! avatar: #53B0EB
+! issues: https://github.com/kevinquillen/drupal-goggles/issues
+
+! Boost well-known sites
+$boost=2,site=drupal.org
+$boost=3,site=api.drupal.org
+$boost=3,site=drupal.stackexchange.com
